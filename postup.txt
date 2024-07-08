@@ -1,0 +1,15 @@
+Program slouží ke slučování souborů PDF, CSV a XLSX (včetně XLS)
+
+OBECNÉ:
+Sloučený soubor se ukládá do stejné složky, ve které se necházejí zdrojové soubory.
+
+PDF:
+Primárně slouží ke spojování PDF velikosti A4, ale sloučení se provede i pro jiné rozměry stránky.
+
+CSV:
+Oddělovač sloupců v souboru musí být středník ';'
+Kódování nastaveno na utf-8.
+Slučování se provádí na základě hlavičky souboru - prvního řádku.
+
+XLSX a XLS:
+Slučování se provádí na základě hlavičky souboru - prvního řádku.

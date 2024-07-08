@@ -1,0 +1,4 @@
+PyPDF2==1.28.6
+Pandas==2.0.3
+tk==0.1.0
+auto-py-to-exe==2.39.0
